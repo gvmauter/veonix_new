@@ -1,0 +1,1 @@
+<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/skypark.cdn/admin/cdn.php");?>

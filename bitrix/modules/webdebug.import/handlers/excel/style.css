@@ -1,0 +1,13 @@
+table.wdi_format_general {border:1px solid silver!important; border-collapse:collapse;}
+	table.wdi_format_general .adm-list-table-cell {padding:6px 10px; text-align:center; vertical-align:middle;}
+	table.wdi_format_general .adm-list-table-header .adm-list-table-cell {border-top:1px solid silver!important; font-size:15px; font-weight:normal;padding:8px 10px;}
+		table.wdi_format_general .adm-list-table-header .adm-list-table-cell:first-child {border-left:1px solid silver!important;}
+		table.wdi_format_general .adm-list-table-header .adm-list-table-cell:last-child {border-right:1px solid silver!important;}
+			table.wdi_format_general .name {display:block; font-weight:bold; text-align:left; white-space:nowrap;}
+			table.wdi_format_general .wdi_color {text-transform:uppercase;}
+			table.wdi_format_general .col_icon {cursor:default; display:inline-block; height:16px; line-height:16px; text-align:center; width:16px;}
+			table.wdi_format_general .col_icon.bold {font-weight:bold;}
+			table.wdi_format_general .col_icon.italic {font-style:italic;}
+			table.wdi_format_general .col_icon.underline {text-decoration:underline;}
+			table.wdi_format_general .col_icon.strike {text-decoration:line-through;}
+input.wdi_excel_format_button_pick {height:25px!important; padding:0!important; text-align:center!important; width:25px!important;}

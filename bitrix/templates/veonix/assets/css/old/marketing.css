@@ -1,0 +1,167 @@
+.box1_bk_b5_item svg {
+    width: auto;
+    height: 60px;
+}
+
+p.bk_zag {
+    color: #ffffff;
+    font-size: 45px;
+    line-height: 51px;
+    letter-spacing: 0.49px;
+        font-weight: 600;
+    padding-left: 100px;
+}
+
+.box1_bk_b5 {
+    padding-left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1_bk_b5_item {
+    width: 33%;
+    margin-bottom: 130px;
+}
+
+p.box1_bk_b5_item_tx1 {
+    color: #b6985e;
+    font-size: 24px;
+    letter-spacing: 0.6px;
+        font-weight: 600;
+    margin: 57px 0 33px;
+}
+
+p.box1_bk_b5_item_tx2 {
+    color: #fcfcfc;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0.45px;
+        font-weight: 300;
+}
+
+.markit{
+    background: #fff;
+    padding-bottom: 100px;
+}
+.markit .team-t1, .markit .team-t2, .markit .kit-zag .st1-t1, .markit .kit-zag .spik p, .markit .kit-zag .st1-t2{
+    color: #000
+}
+
+
+@media only screen and (max-width: 680px) {
+    .tarif .spik>div:nth-child(1) p:before {
+        content: "Количество страниц маркетинг-кита"
+    }
+
+    .tarif .spik>div:nth-child(2) p:before {
+        content: "Изучение вашего бизнеса"
+    }
+
+    .tarif .spik>div:nth-child(3) p:before {
+        content: "Составление портрета целевой аудитории и выявление её болей"
+    }
+
+    .tarif .spik>div:nth-child(4) p:before {
+        content: "Анализ деятельности конкурентов, шт"
+    }
+
+    .tarif .spik>div:nth-child(5) p:before {
+        content: "Поиск лучших отечественных и зарубежных практик"
+    }
+
+    .tarif .spik>div:nth-child(6) p:before {
+        content: "Составление УТП (уникального торгового предложения) и конкурентных преимуществ"
+    }
+
+    .tarif .spik>div:nth-child(7) p:before {
+        content: "Выявление слабых сторон и их нивелирование"
+    }
+
+    .tarif .spik>div:nth-child(8) p:before {
+        content: "Составление SEO-оптимизированной структуры маркетинг-кита"
+    }
+
+    .tarif .spik>div:nth-child(9) p:before {
+        content: "Написание заголовков по технологии 4U, ХПВ, AIDA"
+    }
+
+    .tarif .spik>div:nth-child(10) p:before {
+        content: "Создание продающих текстов для наполнения маркетинг-кита"
+    }
+
+    .tarif .spik>div:nth-child(11) p:before {
+        content: "Инфографика (иконки и буллиты)"
+    }
+
+    .tarif .spik>div:nth-child(12) p:before {
+        content: "Эксклюзивные иллюстрации"
+    }
+
+    .tarif .spik>div:nth-child(13) p:before {
+        content: "Нешаблонная верстка маркетинг-кита"
+    }
+
+    .tarif .spik>div:nth-child(14) p:before {
+        content: "Лицензионный растровый и векторный контент (визуальное оформление и дизайн)"
+    }
+
+    .tarif .spik>div:nth-child(15) p:before {
+        content: "Платные лицензионные шрифты"
+    }
+
+    .tarif .spik>div:nth-child(16) p:before {
+        content: "Передача авторских прав"
+    }
+
+    .tarif .spik>div:nth-child(17) p:before {
+        content: "Электронная версия под печать"
+    }
+
+    .tarif .spik>div:nth-child(18) p:before {
+        content: "Сжатая до 5Мб версия для отправки по e-mail и whatsapp"
+    }
+
+    .tarif .spik>div:nth-child(19) p:before {
+        content: "Редактируемые исходные файлы"
+    }
+
+    .tarif .spik>div:nth-child(20) p:before {
+        content: "Количество итераций правок по готовому маркетинг киту"
+    }
+
+    .box1_bk_b5 {padding-left: 0;margin: 50px 0;}
+
+    .box1_bk_b5_item {
+        width: 100%;
+        padding-right: 30px;
+        box-sizing: border-box;
+        margin-bottom: 50px;
+    }
+    section.bk_b5 {
+        margin-top: 100px;
+    }
+
+    p.box1_bk_b5_item_tx1 {
+        margin: 20px 0 20px;
+    }
+    p.bk_zag {
+        padding-left: 0;
+        font-size: 30px;
+        line-height: 39px;
+    }
+}
+
+@media screen and (min-width: 681px) and (max-width: 980px) {
+  .box1_bk_b5 {padding-left: 0;}
+
+  .box1_bk_b5_item {
+      width: 50%;
+      padding-right: 30px;
+      box-sizing: border-box;
+      margin-bottom: 50px;
+  }
+  p.bk_zag {
+      padding-left: 0;
+      font-size: 42px;
+  }
+}

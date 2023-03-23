@@ -1,0 +1,1 @@
+<?require($_SERVER['DOCUMENT_ROOT'].'/bitrix/modules/webdebug.import/admin/wdi_backup_import.php');?>

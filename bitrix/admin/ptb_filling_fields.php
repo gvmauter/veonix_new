@@ -1,0 +1,1 @@
+<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/ptb.fillingfields/admin/ptb_filling_fields.php");?>

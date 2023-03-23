@@ -1,0 +1,1 @@
+<?define("goodde_yandexturboapi_TEMPORARY_CACHE", "dGUHBCtlAQhrBS80VGwGL1Vx");?>

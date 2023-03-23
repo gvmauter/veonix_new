@@ -1,0 +1,8 @@
+<?
+$MESS['WDI_EXCEL_FORMAT_LEVEL'] = 'Уровень';
+$MESS['WDI_EXCEL_FORMAT_SOURCE'] = 'Источник';
+
+$MESS['WDI_EXCEL_FORMAT_TYPE_SECTION'] = 'Раздел';
+$MESS['WDI_EXCEL_FORMAT_TYPE_SECTION_LEVEL'] = ' #I#го уровня';
+$MESS['WDI_EXCEL_FORMAT_TYPE_ELEMENT'] = 'Элемент';
+?>

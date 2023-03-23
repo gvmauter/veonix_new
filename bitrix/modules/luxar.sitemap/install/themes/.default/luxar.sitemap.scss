@@ -1,0 +1,22 @@
+.adm-main-menu-item.adm-luxar {
+  .adm-main-menu-item-icon {
+    background: url(icons/luxar.sitemap/menu.png) no-repeat center 0;
+    height: 54px;
+  }
+
+  &.adm-main-menu-item-active {
+    .adm-main-menu-item-icon {
+      background-position: center -54px;
+    }
+  }
+}
+
+.luxar_sitemap {
+  &_menu_icon {
+    background: url(icons/luxar.sitemap/menu_icon.png) no-repeat center center;
+  }
+
+  &_page_icon {
+    background-image: url(icons/luxar.sitemap/page_icon.png);
+  }
+}

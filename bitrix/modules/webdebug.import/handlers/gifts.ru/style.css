@@ -1,0 +1,10 @@
+#wdi_gifts_login_password_loader .wdi_loader_16 {display:inline-block; margin-left:10px; vertical-align:middle;}
+#wdi_gifts_login_password_status {display:inline-block; height:16px; margin-left:10px; vertical-align:middle; width:0;}
+#wdi_gifts_login_password_status.success {background:url("/bitrix/themes/.default/images/webdebug.import/success_16.png") 0 0 no-repeat; width:16px;}
+#wdi_gifts_login_password_status.error {background:url("/bitrix/themes/.default/images/webdebug.import/error_16.png") 0 0 no-repeat; width:16px;}
+
+#wdi_gifts_link_ip_loader .wdi_loader_16 {display:inline-block; margin-left:10px; vertical-align:middle;}
+#wdi_gifts_link_ip_status {display:inline-block; height:16px; margin-left:10px; vertical-align:middle; width:0;}
+#wdi_gifts_link_ip_status.success {background:url("/bitrix/themes/.default/images/webdebug.import/success_16.png") 0 0 no-repeat; width:16px;}
+#wdi_gifts_link_ip_status.error {background:url("/bitrix/themes/.default/images/webdebug.import/error_16.png") 0 0 no-repeat; width:16px;}
+

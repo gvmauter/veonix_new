@@ -1,0 +1,16 @@
+<?
+$MESS['AMMINA_OPTIMIZER_RECORD_EDIT'] = "Просмотр данных мониторинга";
+$MESS['AMMINA_OPTIMIZER_PAGE_TITLE'] = "Список истории изменения настроек";
+$MESS['AMMINA_OPTIMIZER_FILTER_ID'] = "ID";
+$MESS['AMMINA_OPTIMIZER_FILTER_SITE_ID'] = "Сайт";
+$MESS['AMMINA_OPTIMIZER_FIELD_ID'] = "ID";
+$MESS['AMMINA_OPTIMIZER_FIELD_SITE_ID'] = "Сайт";
+$MESS['AMMINA_OPTIMIZER_FIELD_DATE_CHANGE'] = "Дата изменения";
+$MESS['AMMINA_OPTIMIZER_FIELD_DESCRIPTION'] = "Описание";
+$MESS['AMMINA_OPTIMIZER_FIELD_LINK'] = "Настройки";
+$MESS['AMMINA_OPTIMIZER_FIELD_LINK_DOWNLOAD'] = "Скачать";
+$MESS['AMMINA_OPTIMIZER_SITES_ALL'] = "Настройки по-умолчанию";
+$MESS['AMMINA_OPTIMIZER_ACTION_EXPORT'] = "Экспортировать";
+$MESS['AMMINA_OPTIMIZER_ACTION_DELETE'] = "Удалить";
+$MESS['AMMINA_OPTIMIZER_ACTION_DELETE_CONFIRM'] = "Вы действительно хотите удалить запись истории?";
+$MESS['AMMINA_OPTIMIZER_DELETE_ERROR'] = "Ошибка удаления записи";

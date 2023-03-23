@@ -1,0 +1,30 @@
+<svg width="26" height="31" viewBox="0 0 26 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_713_246" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="3" width="26" height="26">
+<circle cx="2.65927" cy="26.3409" r="1.73052" transform="rotate(-180 2.65927 26.3409)" stroke="#78FFBE" stroke-width="1.85714"/>
+<circle cx="23.3409" cy="26.3409" r="1.73052" transform="rotate(-180 23.3409 26.3409)" stroke="#78FFBE" stroke-width="1.85714"/>
+<rect x="9.45312" y="27.2271" width="2.95455" height="1.77273" transform="rotate(-180 9.45312 27.2271)" fill="black"/>
+<rect x="14.1816" y="27.2271" width="2.95455" height="1.77273" transform="rotate(-180 14.1816 27.2271)" fill="black"/>
+<rect x="18.9082" y="27.2271" width="2.95455" height="1.77273" transform="rotate(-180 18.9082 27.2271)" fill="black"/>
+<circle cx="2.65927" cy="5.65927" r="1.73052" transform="rotate(-180 2.65927 5.65927)" stroke="#78FFBE" stroke-width="1.85714"/>
+<circle cx="23.3409" cy="5.65927" r="1.73052" transform="rotate(-180 23.3409 5.65927)" stroke="#78FFBE" stroke-width="1.85714"/>
+<rect x="9.45312" y="6.54541" width="2.95455" height="1.77273" transform="rotate(-180 9.45312 6.54541)" fill="black"/>
+<rect x="14.1816" y="6.54541" width="2.95455" height="1.77273" transform="rotate(-180 14.1816 6.54541)" fill="black"/>
+<rect x="18.9082" y="6.54541" width="2.95455" height="1.77273" transform="rotate(-180 18.9082 6.54541)" fill="black"/>
+<rect x="1.77344" y="12.4546" width="2.95455" height="1.77273" transform="rotate(-90 1.77344 12.4546)" fill="black"/>
+<rect x="1.77344" y="17.1816" width="2.95455" height="1.77273" transform="rotate(-90 1.77344 17.1816)" fill="black"/>
+<rect x="1.77344" y="21.9092" width="2.95455" height="1.77273" transform="rotate(-90 1.77344 21.9092)" fill="black"/>
+<rect x="22.4531" y="12.4546" width="2.95455" height="1.77273" transform="rotate(-90 22.4531 12.4546)" fill="black"/>
+<rect x="22.4531" y="17.1816" width="2.95455" height="1.77273" transform="rotate(-90 22.4531 17.1816)" fill="black"/>
+<rect x="22.4531" y="21.9092" width="2.95455" height="1.77273" transform="rotate(-90 22.4531 21.9092)" fill="black"/>
+</mask>
+<g mask="url(#mask0_713_246)">
+<rect x="42.4648" y="9.00732" width="47.1223" height="35.9595" rx="1" transform="rotate(129.027 42.4648 9.00732)" fill="url(#paint0_radial_713_246)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_713_246" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(52.1309 23.2671) rotate(36.4457) scale(30.2659 29.3919)">
+<stop stop-color="#9A4AC2"/>
+<stop offset="0.477552" stop-color="#4D65D1"/>
+<stop offset="0.996317" stop-color="#924EB0"/>
+</radialGradient>
+</defs>
+</svg>

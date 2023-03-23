@@ -1,0 +1,32 @@
+<?
+$MESS['WDI_HANDLER_FILE_TYPE'] = 'Файл для импорта:';
+	$MESS['WDI_HANDLER_FILE_TYPE_MANUAL'] = 'Указать вручную';
+		$MESS['WDI_HANDLER_FILE_TYPE_MANUAL_TITLE'] = 'Укажите путь к файлу:';
+		$MESS['WDI_HANDLER_FILE_TYPE_MANUAL_BUTTON'] = 'Выбрать файл';
+	$MESS['WDI_HANDLER_FILE_TYPE_DOWNLOAD'] = 'Загрузить по ссылке HTTP';
+		$MESS['WDI_HANDLER_FILE_TYPE_DOWNLOAD_TITLE'] = 'Укажите ссылку (http:// или https://) на загружаемый файл:';
+		$MESS['WDI_HANDLER_FILE_TYPE_DOWNLOAD_PLACEHOLDER'] = 'Например, http://site.ru/upload/price.xlsx';
+	$MESS['WDI_HANDLER_FILE_TYPE_FTP'] = 'Загрузить из FTP';
+		$MESS['WDI_HANDLER_FILE_TYPE_FTP_LINK_TITLE'] = 'Укажите ссылку для скачивания по FTP:';
+		$MESS['WDI_HANDLER_FILE_TYPE_FTP_TITLE1'] = 'Скопируйте сюда полную FTP-ссылку:';
+		$MESS['WDI_HANDLER_FILE_TYPE_FTP_TITLE2'] = 'Или укажите все данные вручную:';
+		$MESS['WDI_HANDLER_FILE_TYPE_FTP_PARSE'] = '&darr;&darr;&darr; преобразовать ссылку в набор параметров &darr;&darr;&darr;';
+		$MESS['WDI_HANDLER_FILE_TYPE_FTP_LINK_PLACEHOLDER'] = 'Полная ссылка (например, ftp://MyLogin:MyPassword@mysite.ru/public_html/upload/price.xlsx)';
+		$MESS['WDI_HANDLER_FILE_TYPE_FTP_HOST_PLACEHOLDER'] = 'Хост';
+		$MESS['WDI_HANDLER_FILE_TYPE_FTP_PORT_PLACEHOLDER'] = 'Порт';
+		$MESS['WDI_HANDLER_FILE_TYPE_FTP_LOGIN_PLACEHOLDER'] = 'Логин';
+		$MESS['WDI_HANDLER_FILE_TYPE_FTP_PASSWORD_PLACEHOLDER'] = 'Пароль';
+		$MESS['WDI_HANDLER_FILE_TYPE_FTP_FILENAME_PLACEHOLDER'] = 'Путь к файлу на FTP-сервере';
+		$MESS['WDI_HANDLER_FILE_TYPE_FTP_SECURE_TITLE'] = 'FTPS-режим';
+		$MESS['WDI_HANDLER_FILE_TYPE_FTP_PASSIVE_TITLE'] = 'Пассивный режим';
+		$MESS['WDI_HANDLER_FILE_TYPE_FTP_TEST'] = 'Проверить соединение';
+			$MESS['WDI_HANDLER_FILE_TYPE_FTP_TEST_SUCCESS'] = 'Соединение успешно установлено!';
+			$MESS['WDI_HANDLER_FILE_TYPE_FTP_TEST_ERROR'] = 'Ошибка установкисоединения.';
+	$MESS['WDI_HANDLER_FILE_TYPE_SEARCH'] = 'Искать в заданном расположении';
+		$MESS['WDI_HANDLER_FILE_TYPE_SEARCH_DIR_TITLE'] = 'Укажите папку для поиска файла:';
+		$MESS['WDI_HANDLER_FILE_TYPE_SEARCH_BUTTON'] = 'Выбрать папку';
+		$MESS['WDI_HANDLER_FILE_TYPE_SEARCH_MASK_TITLE'] = 'Укажите маску файла для поиска (напр., "file_*.xls"):';
+		$MESS['WDI_HANDLER_FILE_TYPE_SEARCH_RECURSIVE'] = 'Искать также во всех вложенных папках';
+		$MESS['WDI_HANDLER_FILE_TYPE_SEARCH_DELETE'] = 'Удалять найденный файл с сервера';
+	$MESS['WDI_HANDLER_FILE_DO_READ'] = 'Открыть файл';
+?>

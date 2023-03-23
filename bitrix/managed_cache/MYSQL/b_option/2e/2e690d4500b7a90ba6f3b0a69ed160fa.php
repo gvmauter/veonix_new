@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001679554330';
+$dateexpire = '001679557930';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:1:"-";a:39:{s:10:"cache_time";s:4:"3600";s:12:"change_chmod";s:3:"777";s:8:"cnt_step";s:2:"30";s:17:"convert_algorithm";s:7:"phpWebp";s:14:"convert_enable";s:1:"Y";s:12:"convert_mode";s:51:"a:2:{i:0;s:10:"hitConvert";i:1;s:11:"postConvert";}";s:15:"convert_quality";s:2:"80";s:14:"cwebp_compress";s:1:"4";s:20:"cwebp_multithreading";s:1:"Y";s:14:"enable_element";s:1:"Y";s:10:"enable_gif";s:1:"N";s:11:"enable_jpeg";s:1:"N";s:10:"enable_pdf";s:1:"N";s:10:"enable_png";s:1:"N";s:13:"enable_resize";s:1:"Y";s:11:"enable_save";s:1:"Y";s:14:"enable_section";s:1:"Y";s:10:"enable_svg";s:1:"N";s:13:"exclude_files";s:2:"[]";s:13:"exclude_pages";s:47:"["#(\\\\\\/bitrix\\\\\\/.*)#","#(\\\\\\/bitrix\\\\\\/.*)#"]";s:12:"gif_compress";s:1:"2";s:16:"jpeg_progressive";s:1:"Y";s:18:"jpegoptim_compress";s:2:"80";s:18:"opti_algorithm_gif";s:8:"gifsicle";s:19:"opti_algorithm_jpeg";s:9:"jpegoptim";s:18:"opti_algorithm_png";s:7:"optipng";s:18:"opti_algorithm_svg";s:4:"svgo";s:16:"optipng_compress";s:1:"3";s:13:"path_to_cwebp";s:8:"/usr/bin";s:11:"path_to_gif";s:8:"/usr/bin";s:17:"path_to_jpegoptim";s:8:"/usr/bin";s:15:"path_to_optipng";s:8:"/usr/bin";s:14:"path_to_ps2pdf";s:8:"/usr/bin";s:11:"path_to_svg";s:8:"/usr/bin";s:11:"pdf_setting";s:5:"ebook";s:22:"resize_image_algorithm";s:1:"0";s:19:"resize_image_enable";s:1:"N";s:19:"resize_image_height";s:0:"";s:18:"resize_image_width";s:0:"";}}}';
+return true;
+?>

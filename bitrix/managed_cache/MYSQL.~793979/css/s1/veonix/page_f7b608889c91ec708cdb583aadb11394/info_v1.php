@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/veonix/assets/css/old/new_design.css" => "167947822914342","/bitrix/templates/veonix/assets/css/old/style.css" => "1679478229221433",]; ?>

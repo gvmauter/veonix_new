@@ -1,0 +1,66 @@
+body .msg_box {
+  padding: 15px;
+  display: none;
+}
+body .msg_box.success {
+  display: block;
+  background-color: rgba(212, 255, 228, 0.6);
+  border: 1px solid #00cf68;
+}
+body .msg_box.error {
+  display: block;
+  background-color: rgba(255, 220, 220, 0.6);
+  border: 1px solid #cf1d00;
+}
+body .ap-bxmaker_autositemap-notice-box {
+  display: block;
+  margin-bottom: 15px;
+  border: 1px solid #7dac60;
+  background: #f4feeb;
+  padding: 15px;
+  color: #152e16;
+  border-radius: 3px;
+}
+body .ap-bxmaker_autositemap-notice-box.expired {
+  border: 1px solid #ac6060;
+  background: #feebeb;
+  color: #2e1515;
+}
+body .bxmaker__autositemap-table {
+  width: 100%;
+}
+body .bxmaker__autositemap-table thead {
+  background: #ffffff;
+}
+body .bxmaker__autositemap-table thead td {
+  padding: 7px 10px;
+}
+body .bxmaker__autositemap-table tbody td {
+  padding: 3px 10px;
+}
+body .bxmaker__autositemap-table td:nth-child(2n),
+body .bxmaker__autositemap-table td:nth-child(3n) {
+  text-align: center;
+}
+body .bxmaker__autositemap-form input[type=text] {
+  width: 60px !important;
+}
+body .bxmaker__autositemap-form input[type="checkbox"] + label {
+  position: relative;
+  margin-right: 14px;
+}
+body .bxmaker__autositemap-form input[type="checkbox"] + label:after {
+  content: ' ';
+  display: block;
+  width: 13px;
+  height: 13px;
+  border-radius: 10px;
+  position: relative;
+  top: 1px;
+  left: 20px;
+  background: #dd0000;
+}
+body .bxmaker__autositemap-form input[type="checkbox"]:checked + label:after {
+  background: #05be05;
+}
+/*# sourceMappingURL=style.css.map */

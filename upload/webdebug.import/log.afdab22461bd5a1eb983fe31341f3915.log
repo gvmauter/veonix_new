@@ -1,0 +1,32 @@
+[06.10.2022 20:35:55.41655700] Загрузка профиля #1 запущена.
+[06.10.2022 20:37:49.01193700] Загрузка профиля #1 запущена.
+[06.10.2022 20:47:18.96839800] /usr/bin/php -d short_open_tag=On -f /home/i/infoti9a/weonix.ru/public_html/bitrix/modules/webdebug.import/include/cli_check.php
+[06.10.2022 20:47:18.96848000] Array
+(
+)
+
+[06.10.2022 20:47:18.96904800] [0001] Необходимо устранить следующие ошибки конфигурации: site_encoding; cli [профиль 1]. Имейте ввиду, что конфигурация PHP для планировщика Cron часто отличается от конфигурации PHP для сайта.
+Array
+(
+    [0] => Array
+        (
+            [file] => /home/i/infoti9a/weonix.ru/public_html/bitrix/modules/webdebug.import/classes/general/CWDI_Handler.php
+            [line] => 59
+            [function] => L
+            [class] => CWDI
+            [type] => ::
+        )
+
+    [1] => Array
+        (
+            [file] => /home/i/infoti9a/weonix.ru/public_html/bitrix/modules/webdebug.import/cron.php
+            [line] => 24
+            [function] => CronExec
+            [class] => CWDI_Handler
+            [type] => ::
+        )
+
+)
+
+[06.10.2022 20:47:18.97208300] Загрузка не требуется.
+[06.10.2022 21:06:55.37222300] Загрузка профиля #2 запущена.

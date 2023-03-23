@@ -1,0 +1,1 @@
+<?define("bxmaker_autositemap_TEMPORARY_CACHE", "IzcFUioyBwk+ACgxUWEALAJ7");?>

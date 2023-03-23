@@ -1,0 +1,6 @@
+<?
+$MESS['WDI_EXCEL_PICKFORMAT_PREV'] = 'Назад';
+$MESS['WDI_EXCEL_PICKFORMAT_NEXT'] = 'Далее';
+$MESS['WDI_EXCEL_PICKFORMAT_SELECTED_COLOR'] = 'Выбранный цвет ячейки:';
+$MESS['WDI_EXCEL_PICKFORMAT_SELECTED_COLOR_NONE'] = '(не выбрано)';
+?>

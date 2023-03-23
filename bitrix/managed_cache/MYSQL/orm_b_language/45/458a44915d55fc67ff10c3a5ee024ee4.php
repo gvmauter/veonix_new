@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001679555497';
+$dateexpire = '001679641897';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:7:{i:0;a:7:{s:3:"LID";s:2:"ru";s:4:"SORT";s:1:"1";s:3:"DEF";s:1:"Y";s:6:"ACTIVE";s:1:"Y";s:4:"NAME";s:7:"Russian";s:10:"CULTURE_ID";s:1:"1";s:4:"CODE";s:2:"ru";}i:1;a:7:{s:3:"LID";s:2:"br";s:4:"SORT";s:3:"100";s:3:"DEF";s:1:"N";s:6:"ACTIVE";s:1:"Y";s:4:"NAME";s:22:"Portuguese (Brazilian)";s:10:"CULTURE_ID";s:1:"3";s:4:"CODE";N;}i:2;a:7:{s:3:"LID";s:2:"fr";s:4:"SORT";s:3:"100";s:3:"DEF";s:1:"N";s:6:"ACTIVE";s:1:"Y";s:4:"NAME";s:15:"French (Canada)";s:10:"CULTURE_ID";s:1:"4";s:4:"CODE";N;}i:3;a:7:{s:3:"LID";s:2:"it";s:4:"SORT";s:3:"100";s:3:"DEF";s:1:"N";s:6:"ACTIVE";s:1:"Y";s:4:"NAME";s:7:"Italian";s:10:"CULTURE_ID";s:1:"3";s:4:"CODE";N;}i:4;a:7:{s:3:"LID";s:2:"la";s:4:"SORT";s:3:"100";s:3:"DEF";s:1:"N";s:6:"ACTIVE";s:1:"Y";s:4:"NAME";s:24:"Spanish (Latin American)";s:10:"CULTURE_ID";s:1:"3";s:4:"CODE";N;}i:5;a:7:{s:3:"LID";s:2:"pl";s:4:"SORT";s:3:"100";s:3:"DEF";s:1:"N";s:6:"ACTIVE";s:1:"Y";s:4:"NAME";s:6:"Polish";s:10:"CULTURE_ID";s:1:"1";s:4:"CODE";N;}i:6;a:7:{s:3:"LID";s:2:"ua";s:4:"SORT";s:3:"100";s:3:"DEF";s:1:"N";s:6:"ACTIVE";s:1:"Y";s:4:"NAME";s:9:"Ukrainian";s:10:"CULTURE_ID";s:1:"1";s:4:"CODE";N;}}}';
+return true;
+?>

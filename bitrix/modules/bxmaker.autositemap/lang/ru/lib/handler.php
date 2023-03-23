@@ -1,0 +1,3 @@
+<?php
+
+$MESS["BXMAKER_ASM_GLOBAL_MENU_TITLE"] = "BXmaker";

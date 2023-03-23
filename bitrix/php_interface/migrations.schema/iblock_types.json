@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "ID": "portfolio",
+            "SECTIONS": "N",
+            "EDIT_FILE_BEFORE": "",
+            "EDIT_FILE_AFTER": "",
+            "IN_RSS": "N",
+            "SORT": "500",
+            "LANG": {
+                "ru": {
+                    "NAME": "Портфолио",
+                    "SECTION_NAME": "",
+                    "ELEMENT_NAME": ""
+                }
+            }
+        },
+        {
+            "ID": "rest_entity",
+            "SECTIONS": "Y",
+            "EDIT_FILE_BEFORE": null,
+            "EDIT_FILE_AFTER": null,
+            "IN_RSS": "N",
+            "SORT": "1000",
+            "LANG": {
+                "ru": {
+                    "NAME": "Хранилище данных для приложений Маркетплейс24",
+                    "SECTION_NAME": "Разделы",
+                    "ELEMENT_NAME": "Элементы"
+                }
+            }
+        }
+    ]
+}

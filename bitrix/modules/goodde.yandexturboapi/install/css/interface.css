@@ -1,0 +1,117 @@
+.goodde-yandexturbo-list {
+    background: #ffffff;    
+    border: 1px solid;
+    border-color: #87919c #959ea9 #9ea7b1 #959ea9;
+    border-radius: 4px;
+    -webkit-box-shadow:0 1px 0 0 rgba(255,255,255,0.3), inset 0 2px 2px -1px rgba(180,188,191,0.7);
+    box-shadow:0 1px 0 0 rgba(255,255,255,0.3), inset 0 2px 2px -1px rgba(180,188,191,0.7);
+    margin: 0;
+    padding: 0 10px;
+    width: 100%;
+    max-height: 800px;
+    overflow-y: auto;
+}
+
+.goodde-yandexturbo-list li{
+    list-style: none;
+    margin: 4px 0;
+}
+
+.goodde-yandexturbo-list li input[type=checkbox],
+.goodde-yandexturbo-list li input[type=radio]{
+    cursor: pointer;
+}
+
+.goodde-yandexturbo-list.goodde-yandexturbo-multy li{
+    margin: 7px 0;
+}
+
+.goodde-yandexturbo-list li label.parent {
+    border-bottom: 1px dotted;
+    cursor: pointer;
+}
+
+.goodde-yandexturbo-list li ul{
+    padding: 0 0 0 20px;
+}
+
+.goodde-yandexturbo-list li ul{
+    display: none;
+}
+
+.goodde-yandexturbo-list + .reset{
+    margin: 5px 0;
+}
+
+.goodde-yandexturbo-list + .reset span{
+    cursor: pointer;
+    border-bottom: 1px dotted;
+}
+
+.sitemap-dir-item
+{
+	position: relative;
+}
+
+.sitemap-dir-item-text {
+	display: inline-block;
+	height: 20px;
+	left: 20px;
+	top: 2px;
+	position: relative;
+}
+
+.sitemap-dir-item-children
+{
+	display: none;
+	margin-left: 20px
+}
+
+.sitemap-tree-icon-iblock, .sitemap-tree-icon
+{
+	display: inline-block;
+	background: url("/bitrix/panel/main/images/bx-admin-sprite.png") no-repeat scroll -7px -238px rgba(0, 0, 0, 0);
+	height: 20px;
+	width: 20px;
+	cursor: pointer;
+}
+
+.sitemap-tree-icon
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.sitemap-opened {
+	background-position: -7px -216px;
+}
+
+.sitemap-logic-switch
+{
+	cursor: pointer;
+}
+
+.form-block{
+    position: relative;
+    padding: 7px 0;
+    padding-right: 27px;
+}
+.form-block.template{display: none;}
+.form-block.disabled{display: none;}
+
+.form-block .form-block-remove{
+}
+.form-block .form-block-remove img{
+    cursor: pointer;
+    vertical-align: middle;
+}
+.form-block .form-block-remove label label,
+.form-block .form-block-remove input{
+    opacity: 0;
+    width: 0 !important;
+    height: 0 !important;
+}
+.add-more{
+    margin-top: 7px;
+}

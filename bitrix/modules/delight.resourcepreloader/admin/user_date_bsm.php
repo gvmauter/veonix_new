@@ -1,0 +1,1 @@
+<?define("delight_resourcepreloader_TEMPORARY_CACHE", "JmVRUHxhAlZuBngzVjdQL1Ah");?>

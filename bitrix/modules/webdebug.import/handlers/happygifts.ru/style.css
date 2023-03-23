@@ -1,0 +1,4 @@
+#wdi_happygifts_connection_loader .wdi_loader_16 {display:inline-block; margin-left:10px; vertical-align:middle;}
+#wdi_happygifts_connection_status {display:inline-block; height:16px; margin-left:10px; vertical-align:middle; width:0;}
+#wdi_happygifts_connection_status.success {background:url("/bitrix/themes/.default/images/webdebug.import/success_16.png") 0 0 no-repeat; width:16px;}
+#wdi_happygifts_connection_status.error {background:url("/bitrix/themes/.default/images/webdebug.import/error_16.png") 0 0 no-repeat; width:16px;}
